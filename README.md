@@ -1,4 +1,4 @@
 #Gitチュートリアル
 
 
- - feature-A
+ - feature-A　追記
